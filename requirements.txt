@@ -1,0 +1,5 @@
+# All the dependencies
+numpy
+scipy
+opencv-contrib-python
+matplotlib
