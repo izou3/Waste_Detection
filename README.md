@@ -2,4 +2,11 @@
 Waste Detection 
 
 # Getting Started
-Upload video files to `/videos` directory and import them. 
+
+### Install Dependencies
+```python
+pip install -r requirements.txt
+```
+
+### Uploading Videos
+Upload video files to `/videos` directory and import them into your scripts or use the sample ones provided. 
