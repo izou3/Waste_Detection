@@ -1,5 +1,5 @@
-# All the dependencies
+# All the dependencies needed for the preprocessing scripts 
 numpy
-scipy
 opencv-contrib-python
-matplotlib
+json
+

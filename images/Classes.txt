@@ -1,0 +1,9 @@
+Beef
+Chicken
+Pasta
+Pizza
+Fruit
+Vegetable
+Rice
+Beans
+Bread

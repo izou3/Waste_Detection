@@ -1,0 +1,2 @@
+Training Set: 116 Images 
+Test Set (Hold-Out): 23 Images
