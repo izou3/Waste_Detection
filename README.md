@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://user-images.githubusercontent.com/55326650/149052452-de75c0e9-5106-4355-b255-81b90d615837.gif" width="90%" height="50%">
+</div>
+
 # Food Waste Detection
 
 The goal of this project was to detect food waste within a school cafeteria setting by analyzing waste footages taken of food and other waste being disposed of in trash cans. A formal report is located in the `./FormalReport.pdf` file and is summarized below. The code and code outputs of the project are located in the following colab notebooks.
