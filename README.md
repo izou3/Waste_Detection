@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/55326650/149052452-de75c0e9-5106-4355-b255-81b90d615837.gif" width="90%" height="50%">
+<img src="https://user-images.githubusercontent.com/55326650/149052452-de75c0e9-5106-4355-b255-81b90d615837.gif">
 </div>
 
 # Food Waste Detection
