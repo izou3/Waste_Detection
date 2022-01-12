@@ -26,13 +26,11 @@ The goal of this project was to detect food waste within a school cafeteria sett
 ├── WasteDetection_Detectron2.ipynb     [COLAB] Waste Detection using MaskRCNN based on Detectron2 Implementation  
 ├── WasteDetection_LocalCPU.ipynb       Waste Detection using MaskRCNN based on Detectron2 Implementation on local machine CPU
 ```
----
 
 ## Future Work
 * Implement Detection on the Edge 
 * Algorithm to track and count the frequency of each type of food over time 
 
----
 
 ## References 
 Abdulla, W. (2018, December 10). Splash of color: Instance segmentation with mask R-CNN and TensorFlow. 
